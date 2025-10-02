@@ -481,7 +481,8 @@ footer {
     width: 100%;
   }
 
-  .review__text, .review__credit {
+  .review__text,
+  .review__credit {
     width: 100%;
     height: 50%;
   }
